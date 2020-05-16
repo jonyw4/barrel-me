@@ -22,7 +22,7 @@ const quote = argv.q === 'single' ? "'" : '"';
 
 argv.d.forEach(function(directory){
   // @ts-ignore
-  const directoryPath = join(__dirname, directory);
+  const directoryPath = directory;
   const listOfDirectories = getDirectories(directoryPath);
 
   let contentFile = '';
