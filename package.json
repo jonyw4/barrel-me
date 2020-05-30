@@ -28,15 +28,15 @@
   },
   "homepage": "https://github.com/jonyw4/barrel-me#readme",
   "dependencies": {
-    "yargs": "^15.3.1"
+    "yargs": "15.3.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
-    "codecov": "^3.6.5",
-    "husky": "^4.2.5",
-    "jest": "^26.0.1",
-    "semantic-release": "^17.0.7"
+    "@commitlint/cli": "8.3.5",
+    "@commitlint/config-conventional": "8.3.4",
+    "codecov": "3.6.5",
+    "husky": "4.2.5",
+    "jest": "26.0.1",
+    "semantic-release": "17.0.7"
   },
   "publishConfig": {
     "access": "public"
