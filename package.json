@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jonyw4/barrel-me#readme",
   "dependencies": {
-    "yargs": "15.4.1"
+    "yargs": "16.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "9.0.1",
