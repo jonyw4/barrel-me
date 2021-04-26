@@ -34,7 +34,7 @@
     "@commitlint/cli": "9.0.1",
     "@commitlint/config-conventional": "9.0.1",
     "codecov": "3.7.1",
-    "husky": "4.2.5",
+    "husky": "6.0.0",
     "jest": "26.1.0",
     "semantic-release": "17.1.1"
   },
